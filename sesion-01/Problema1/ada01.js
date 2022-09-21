@@ -95,3 +95,60 @@ prompt("Cofla Puedes comprar un Potecito de helado con confites o un Pote de 1/4
 else {
   prompt("Lo sentimos mucho Cofla, pero no te alcanza para ni un producto de nuestro catalago.");
 }
+//=================================================================================================================================================================
+// let boleto = 0.9;
+// let dineroCofla = promnt(Cuanto dinero tienes Cofla?);
+// dineroCofla = parseInt("dineroCofla")
+//  if (dineroCofla/boleto > 1 && dineroCofla/boleto < 2){
+//   let saldo = dineroCofla - boleto;
+//   alert("Cofla puedes comprarte un boleto y tu cambio es de " + saldo + " pesos");
+//  }
+// else if (dineroCofla/boleto > 2 && dineroCofla/boleto < 3){
+//   let saldo = dineroCofla - boleto*2;
+//   alert("Cofla puedes comprar 2 boletos y tu cambio es de " + saldo +  "pesos");
+// }
+// else if (dineroCofla/boleto >= 3){
+//   let saldo = dineroCofla - boleto*3;
+//   alert("Cofla puedes comprarte 3 boletos y el saldo es de " + saldo + " para regalarlo");
+// }
+// else {
+//   alert("Lo siento cofla no te alcanza para ni un boleto");
+// }
+// 
+// ========================================================================================================================================================================
+
+// let ladron1 = prompt("El ladron Num. 1 esta mintiendo?");
+// let ladron2 = prompt("El ladron Num. 2 esta mintiendo?");
+// let cofla = prompt("Cofla esta mintiendo?");
+// ladron1 = parseInt("ladron1");
+// ladron1 = parseInt("ladron2");
+// cofla = parseInt("cofla"); 
+// if (ladron1 == 1){
+//   alert("Sospechoso1 si esta mintiendo; darle una descarga");
+// }
+// else if (ladron1 == 2){
+//   alert("Sospechoso1 no esta mintiendo, no hacerle descarga");
+// }
+// else {
+//   alert("No esta clara la informmación, reintente de nuevo");
+// }
+
+// if (ladron2 == 1){
+//   alert("Sospechoso2 si esta mintiendo; darle una descarga");
+// }
+// else if (ladron2 == 2){
+//   alert("Sospechoso2 no esta mintiendo, no hacerle descarga");
+// }
+// else {
+//   alert("No esta clara la informmación, reintente de nuevo");
+// }
+
+// if (cofla == 1){
+//   alert("Cofla si esta mintiendo; darle una descarga");
+// }
+// else if (cofla == 2){
+//   alert("Cofla no esta mintiendo, no hacerle descarga");
+// }
+// else {
+//   alert("No esta clara la informmación, reintente de nuevo");
+// }
